@@ -1,2 +1,2 @@
 # C++ Programs
-C++ files I have created over the years
+various C++ files I have created over the years
