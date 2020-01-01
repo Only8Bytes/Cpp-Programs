@@ -2,7 +2,7 @@
 using namespace std;
 const int width = 0, height = 0;
 //set width and height to desired values
-int PixelMap[width][height][3];
+int PixelMap[height][width][3];
 //set PixelMap equal to a 3 dimensional array of RGB values
 int main(){
     ofstream img ("SampleImage.ppm");
